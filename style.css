@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 18px;    
+}
+
+body{
+    background: rgb(247, 246, 246);
+}
+
+.navbar{
+    margin: 50px;    
+}
+
+.navbar a{
+    margin: 30px;
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(226, 72, 0);
+    font-weight: bolder;
+}
+
+button{
+    margin-left: 20px;
+}
